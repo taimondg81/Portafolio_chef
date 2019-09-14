@@ -132,6 +132,11 @@ nav {
     
 }
 
+.pages1 a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .pages2 {
     position: absolute;
     margin-left: 80%;
@@ -141,6 +146,11 @@ nav {
     top: 55%;
     transform: translateY(-50%);
     /*border: 1px solid white;*/
+}
+
+.pages2 a {
+    color: #fff;
+    text-decoration: none;
 }
 
 .pages3 {
